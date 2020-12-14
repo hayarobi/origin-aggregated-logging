@@ -5,7 +5,9 @@ fluent-config-regexp-type 1.0.0 https://github.com/okkez/fluent-config-regexp-ty
 fluentd 1.7.4 https://www.fluentd.org/
 fluent-plugin-concat 2.4.0 https://github.com/fluent-plugins-nursery/fluent-plugin-concat
 fluent-plugin-kafka 0.13.1 https://github.com/fluent/fluent-plugin-kafka
+fluent-plugin-mongo 1.5.0 https://github.com/fluent/fluent-plugin-mongo
 fluent-plugin-multi-format-parser 1.0.0 https://github.com/repeatedly/fluent-plugin-multi-format-parser
+fluent-plugin-papertrail 0.0.1 https://github.com/hayarobi/fluent-plugin-papertrail
 fluent-plugin-splunk-hec 1.1.2 https://github.com/splunk/fluent-plugin-splunk-hec
 http-accept 1.7.0 https://github.com/ioquatix/http-accept
 http-parser 1.2.1 https://github.com/cotag/http-parser
